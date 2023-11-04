@@ -1,0 +1,4 @@
+./demo_data\train_dataset_extend\0\1.npz 0
+./demo_data\train_dataset_extend\0\2.npz 0
+./demo_data\train_dataset_extend\1\3.npz 1
+./demo_data\train_dataset_extend\1\4.npz 1
